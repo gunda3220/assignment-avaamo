@@ -26,6 +26,34 @@ I have a made the following assumptions while working on this.
 In case the code does not meet the requirements, Please let me know and give me a chance to fix it.
 
 
+Other Questions asked in the mail.
+
+1. What is it that interests you about this role and to work at Avaamo?
+
+I have always wanted to be an engineer and I like problem solving. During my tenure as an Electronics Engineer at Barsys, I have experienced a huge delay in putting an idea into execution because of the complex logistics involved with hardware components. Wheras in software field, it's considerably less. That's a major reason why I wanted to shift to this field.
+
+Machine learning and AI is the future and requires complex problem soving. 
+
+I am an enthusiast and like to learn new things everyday and like to work on innovotaive technologies. Startups provide a decent environment for people like me.
+And since Avaamo is a startup working on innovative and futuristic technologies, I would love to work with you and progress as the company progresses.
+
+2. Can you share your experience interacting with real-world conversational AI chatbots.
+
+I don't have much experience interacting with real-world conversational AI chatbots recently because of not so productive experience a few years ago.
+
+Even though the response was fast, it doesn't give a appropriate response ultimately forcing me to call the executive.
+
+I am sure things might have changed a lot in the recent past.
+
+
+
+
+
+
+
+
+
+
  
 
 
