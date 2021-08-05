@@ -128,7 +128,7 @@ const fetchText = async(matchingWord) => {
 
     await printDetails(topWords);
 
-    let jsonOutput = await getJson(topWords);
+    jsonOutput = await getJson(topWords);
   
     console.log(jsonOutput);
     
